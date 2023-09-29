@@ -1,0 +1,2 @@
+Prefix plugins/TaxID2Lineage/example/
+Plugin TaxID2Lineage inputfile parameters.txt outputfile lineage.tsv

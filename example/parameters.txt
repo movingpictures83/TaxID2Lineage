@@ -1,0 +1,7 @@
+input	species_EnsemblBacteria.txt
+input_skiprows	0
+lineage_file	all_lineages.csv
+tax_col	3
+include_columns	0,4,5
+include_columns_names	"strain,assembly,assembly_accession"
+email	your@email
